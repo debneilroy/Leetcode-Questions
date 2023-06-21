@@ -1,1 +1,1 @@
-# A collection of leetcode questions
+A collection of leetcode questions
